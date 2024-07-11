@@ -1,0 +1,31 @@
+/*
+
+COLOUR PALETTE
+
+orange accent       ff8e2d
+teal                20abad
+darker teal         007c84
+off-white           eeeaeb
+
+GOOGLE FONTS 
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Pacifico', cursive;
+
+*/
+
+/* UNIVERSAL STYLES */
+
+
+/* MOBILE VIEW */
+
+
+/* DESKTOP VIEW */
+@media screen and (min-width: 720px) {
+
+}
+
+/* LARGEST VIEW */
+@media screen and (min-width: 1024px) {
+    
+}
