@@ -10,7 +10,7 @@
 
 Clone a copy of this repository to your device so that you can develop it locally. When you finish, make sure to push your latest commit to GitHub Classroom. 
 
-For this Lab, you will create a website for a fictitious Geltao shop in southern Queensland, Australia. It will be an in-class Code-A-Long where you are expected to put in the final touches.
+For this Lab, you will create a website for a fictitious Geltao shop in southern Queensland, Australia. 
 
 ---
 
